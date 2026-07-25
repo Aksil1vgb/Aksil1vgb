@@ -1,4 +1,4 @@
- Salut, moi c'est Aksil 👋
+ Salut, moi c'est Accyl 👋
 
 Étudiant en L3 Informatique à l'Université de Rouen Normandie.  
 Je m'intéresse au développement bas niveau, à l'algorithmique et aux systèmes.
