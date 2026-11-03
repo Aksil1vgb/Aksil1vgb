@@ -15,7 +15,7 @@ Les projets de groupe sont hébergés sur le compte de mon binôme, [RIZIWYX](ht
 | [DataFit](https://github.com/RIZIWYX/DataFit) | L3, équipe de 5, en cours | Suivi sportif à partir de montres connectées. Je m'occupe du tableau de bord, du transfert des données des montres et de la sécurisation des comptes (React, TypeScript, Spring Boot) |
 | [Randtext](https://github.com/RIZIWYX/RandText) | L2, binôme | Générateur de texte aléatoire en C : architecture modulaire, mémoire validée sous valgrind, près de 350 tests |
 | [Fokus](https://github.com/RIZIWYX/Fokus) | L2, binôme | Gestion de tâches en PHP sans framework : authentification, protection CSRF, requêtes préparées |
-| [Huffman](https://github.com/RIZIWYX/Huffman) | L2, binôme | Compression et décompression sans perte en C |
+| [Huffman](https://github.com/RIZIWYX/Huffman) | L2, trio | Compression et décompression sans perte en C |
 | [RSA](https://github.com/RIZIWYX/RSA) | L2, binôme | Algèbre effective en OCaml : calcul exact, polynômes, RSA en cours |
 | [Yapply](https://github.com/RIZIWYX/Yapply) | L1, binôme | Petit réseau social en PHP, sécurisé dans une seconde version |
 
